@@ -1,0 +1,26 @@
+C:\Users\Samuel Vasconcelos\Desktop\Atividades Do BG\Técnico\TPA\Duplas\Ramon e Samuel\C#\DeliciariaDoChupeto\bin\Debug\DeliciariaDoChupeto.exe.config
+C:\Users\Samuel Vasconcelos\Desktop\Atividades Do BG\Técnico\TPA\Duplas\Ramon e Samuel\C#\DeliciariaDoChupeto\bin\Debug\DeliciariaDoChupeto.exe
+C:\Users\Samuel Vasconcelos\Desktop\Atividades Do BG\Técnico\TPA\Duplas\Ramon e Samuel\C#\DeliciariaDoChupeto\bin\Debug\DeliciariaDoChupeto.pdb
+C:\Users\Samuel Vasconcelos\Desktop\Atividades Do BG\Técnico\TPA\Duplas\Ramon e Samuel\C#\DeliciariaDoChupeto\obj\Debug\DeliciariaDoChupeto.csproj.AssemblyReference.cache
+C:\Users\Samuel Vasconcelos\Desktop\Atividades Do BG\Técnico\TPA\Duplas\Ramon e Samuel\C#\DeliciariaDoChupeto\obj\Debug\DeliciariaDoChupeto.frmhome.resources
+C:\Users\Samuel Vasconcelos\Desktop\Atividades Do BG\Técnico\TPA\Duplas\Ramon e Samuel\C#\DeliciariaDoChupeto\obj\Debug\DeliciariaDoChupeto.frmtabuada.resources
+C:\Users\Samuel Vasconcelos\Desktop\Atividades Do BG\Técnico\TPA\Duplas\Ramon e Samuel\C#\DeliciariaDoChupeto\obj\Debug\DeliciariaDoChupeto.Properties.Resources.resources
+C:\Users\Samuel Vasconcelos\Desktop\Atividades Do BG\Técnico\TPA\Duplas\Ramon e Samuel\C#\DeliciariaDoChupeto\obj\Debug\DeliciariaDoChupeto.csproj.GenerateResource.cache
+C:\Users\Samuel Vasconcelos\Desktop\Atividades Do BG\Técnico\TPA\Duplas\Ramon e Samuel\C#\DeliciariaDoChupeto\obj\Debug\DeliciariaDoChupeto.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Vasconcelos\Desktop\Atividades Do BG\Técnico\TPA\Duplas\Ramon e Samuel\C#\DeliciariaDoChupeto\obj\Debug\DeliciariaDoChupeto.exe
+C:\Users\Samuel Vasconcelos\Desktop\Atividades Do BG\Técnico\TPA\Duplas\Ramon e Samuel\C#\DeliciariaDoChupeto\obj\Debug\DeliciariaDoChupeto.pdb
+C:\Users\Samuel Vasconcelos\Desktop\Atividades Do BG\Técnico\TPA\Duplas\Ramon e Samuel\C#\DeliciariaDoChupeto\obj\Debug\DeliciariaDoChupeto.frmconversor.resources
+C:\Users\Samuel Vasconcelos\Desktop\Atividades Do BG\Técnico\TPA\Duplas\Ramon e Samuel\C#\DeliciariaDoChupeto\obj\Debug\DeliciariaDoChupeto.frmimovel.resources
+T:\1DS\JOÃO ROBERTO E SAMUEL\TPA\DeliciariaDoChupeto\bin\Debug\DeliciariaDoChupeto.exe.config
+T:\1DS\JOÃO ROBERTO E SAMUEL\TPA\DeliciariaDoChupeto\bin\Debug\DeliciariaDoChupeto.exe
+T:\1DS\JOÃO ROBERTO E SAMUEL\TPA\DeliciariaDoChupeto\bin\Debug\DeliciariaDoChupeto.pdb
+T:\1DS\JOÃO ROBERTO E SAMUEL\TPA\DeliciariaDoChupeto\obj\Debug\DeliciariaDoChupeto.csproj.AssemblyReference.cache
+T:\1DS\JOÃO ROBERTO E SAMUEL\TPA\DeliciariaDoChupeto\obj\Debug\DeliciariaDoChupeto.frmhome.resources
+T:\1DS\JOÃO ROBERTO E SAMUEL\TPA\DeliciariaDoChupeto\obj\Debug\DeliciariaDoChupeto.frmtabuada.resources
+T:\1DS\JOÃO ROBERTO E SAMUEL\TPA\DeliciariaDoChupeto\obj\Debug\DeliciariaDoChupeto.frmconversor.resources
+T:\1DS\JOÃO ROBERTO E SAMUEL\TPA\DeliciariaDoChupeto\obj\Debug\DeliciariaDoChupeto.frmimovel.resources
+T:\1DS\JOÃO ROBERTO E SAMUEL\TPA\DeliciariaDoChupeto\obj\Debug\DeliciariaDoChupeto.Properties.Resources.resources
+T:\1DS\JOÃO ROBERTO E SAMUEL\TPA\DeliciariaDoChupeto\obj\Debug\DeliciariaDoChupeto.csproj.GenerateResource.cache
+T:\1DS\JOÃO ROBERTO E SAMUEL\TPA\DeliciariaDoChupeto\obj\Debug\DeliciariaDoChupeto.csproj.CoreCompileInputs.cache
+T:\1DS\JOÃO ROBERTO E SAMUEL\TPA\DeliciariaDoChupeto\obj\Debug\DeliciariaDoChupeto.exe
+T:\1DS\JOÃO ROBERTO E SAMUEL\TPA\DeliciariaDoChupeto\obj\Debug\DeliciariaDoChupeto.pdb
